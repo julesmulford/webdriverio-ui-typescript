@@ -1,0 +1,9 @@
+node_modules/
+dist/
+allure-results/
+allure-report/
+.wdio-*
+chromedriver.log
+wdio-*.log
+screenshots/
+.env

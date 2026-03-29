@@ -1,6 +1,6 @@
 # webdriverio-ui-typescript
 
-Enterprise WebdriverIO 8 UI test framework for OrangeHRM — TypeScript, Page Object Model, Allure reporting.
+WebdriverIO 8 UI test framework for OrangeHRM — TypeScript, Page Object Model, Allure reporting.
 
 ## Suggested GitHub Repo Name
 
